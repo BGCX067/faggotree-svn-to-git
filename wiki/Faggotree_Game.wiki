@@ -1,0 +1,12 @@
+#summary Rules, game play, etc.
+
+= Rules and Game play =
+
+Here are some basic game rules:
+  * There are 2 teams: Humans, and Nature.
+  * Game Objectives
+    * Humans: Make your way from your spawn zones to the Faggotree and destroy it.
+    * Nature: Stop the humans from destroying the Faggotree.
+  * The game is played in _rounds_. Lets say for the sake of explanation that it consists of 5 rounds. We'll probably use Fretta's round system.
+  * 
+  * More to come later

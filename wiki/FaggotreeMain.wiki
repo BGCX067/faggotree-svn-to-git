@@ -1,0 +1,13 @@
+#summary Faggotree's Main Page.
+
+= Introduction =
+
+Faggotree is a multiplayer teamwork gamemode that pits humans against the powerful _assraping_ forces of nature.
+
+
+= Details =
+
+From here, we can go in a few directions:
+  * [Faggotree_Game Game]
+  * Entities
+  * Content

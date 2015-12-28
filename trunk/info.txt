@@ -1,0 +1,25 @@
+"Gamemode"
+{
+	"name"		"Faggotree"
+	"version"	"1"
+
+	"author_name"	"Grea$eMonkey, Deco da man, CapsAdmin, and NightHawk"
+	"author_email"	""
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+
+	"fretta_maps"
+	{
+		"1"	"^ft_"
+	}
+	"mappattern"
+	{
+		"1"	"^ft_"
+	}
+
+	"selectable"	"1"
+	"description"	"Humans vs Nature - Who will survive? Who will get assraped?"
+}
